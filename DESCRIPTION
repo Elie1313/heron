@@ -1,0 +1,12 @@
+Package: heron
+Title:  Calcul de l'aire d'un triangle à l'aide de la formule de Héron
+Version: 0.0.0.9000
+Authors@R: 
+    person("Elie", "Nouhra", , "elie.nouhra@yahoo.com", role = "aut",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: What the package does (one paragraph).
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
